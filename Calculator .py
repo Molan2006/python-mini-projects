@@ -31,6 +31,6 @@ while True:
                     result = num1 / num2
                     print(f"النتيجة: {num1} / {num2} = {result}")
         except ValueError:
-            print("خطأ: الرجاء إدخال أرقام صحيحة او عشرية.")
+            print("خطأ: الرجاء إدخال أرقام صحيحة أو عشرية.")
     else:
         print("عملية غير صالحة، حاول مرة أخرى.")
